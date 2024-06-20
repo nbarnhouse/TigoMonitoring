@@ -1,6 +1,4 @@
-# PROJECT NAME
-
-Tigo Monitoring App
+## Tigo Monitoring App
 
 ## Description
 

@@ -1,8 +1,8 @@
 import { combineReducers } from 'redux';
-import star from './star.reducer';
+import tigo from './tigo.reducer';
 
 const rootReducer = combineReducers({
-  star,
+  tigo,
 });
 
 export default rootReducer;
