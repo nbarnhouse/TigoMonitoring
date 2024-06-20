@@ -13,6 +13,7 @@ This applicaiton is built to montior solar production at the Barnhouse Residence
 - [PostgreSQL](https://www.postgresql.org)
 - [Nodemon](https://nodemon.io)
 - [Material UI]()
+- [Tigo Energy, Inc | REST API V3](https://www.tigoenergy.com)
 
 ## Options if not already installed
 
