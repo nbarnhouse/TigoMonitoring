@@ -4,7 +4,7 @@ Tigo Monitoring App
 
 ## Description
 
-
+This applicaiton is built to montior solar production at the Barnhouse Residence. The dashboard and logs are specific to our Tigo Monitoring data available through the PSO Battery Backup Pilot Program.
 
 ### Prerequisites
 
@@ -13,7 +13,6 @@ Tigo Monitoring App
 - [PostgreSQL](https://www.postgresql.org)
 - [Nodemon](https://nodemon.io)
 - [Material UI]()
-
 
 ## Options if not already installed
 
@@ -27,11 +26,17 @@ npm install @mui/material @emotion/react @emotion/styled
 - `public/` contains static assets for the client-side
 - `server/` contains the Express App
 
+## Installation
+
+1. Open up your editor of choice and run an `npm install`
+2. Run `npm run server` in your terminal
+3. Run `npm run client` in your terminal
+4. Navigate to `localhost:5173`
+
 ## Usage
 
 1. Navigate to the main page
-2. Click on the image of the day
-3. View details of the image
+2. View details of the page
 
 ## Built With
 
@@ -46,7 +51,7 @@ Nodemon
 
 ## Acknowledgement
 
-Thanks to [Prime Digital Academy](www.primeacademy.io) who equipped and helped me to make this application a reality. Thank you to NASA who has some pretty great free APIs.
+Thanks to [Prime Digital Academy](www.primeacademy.io) who equipped and helped me to make this application a reality. Thank you to Tigo who has great documtation for their API data for premium subscription users.
 
 ## Support
 
